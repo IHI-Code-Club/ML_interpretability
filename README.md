@@ -15,6 +15,7 @@ Materials for ML interpretability Code Club workshop
 
 | File                   | Description                         |
 |------------------------|-------------------------------------|
+| [Interpretability Code Club.pdf](Interpretability%20Code%20Club.pdf) | Presentation file |
 | [NotebookInterpretability.ipynb](NotebookInterpretability.ipynb) | Notebook file for interactive coding session |
 | [mortgage_data_balanced.csv](mortgage_data_balanced.csv)   | Data for interactive coding session |
 
