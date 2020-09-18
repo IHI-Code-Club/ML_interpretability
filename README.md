@@ -21,3 +21,6 @@ Materials for ML interpretability Code Club workshop
 | [NotebookInterpretability.ipynb](NotebookInterpretability.ipynb) | Notebook file for interactive coding session |
 | [mortgage_data_balanced.csv](mortgage_data_balanced.csv)   | Data for interactive coding session |
 
+## Recording
+
+via [MS Stream](https://web.microsoftstream.com/video/9c57196b-0d9f-4561-a81d-80e3ea4173be)
